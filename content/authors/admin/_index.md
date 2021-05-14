@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Mark Sabbagh
+title: Mark Sabbagh, MD, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Pathology Resident at MGH
+role: Pathology Resident 
 
 # Organizations/Affiliations to show in About widget
 organizations:
