@@ -70,5 +70,3 @@ highlight_name: false
 ---
 
 I am a pathology resident at MGH.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
