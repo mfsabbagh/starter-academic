@@ -20,9 +20,9 @@ bio: My research interests include vascular biology, genomics, microbiology, and
 
 # Interests to show in About widget
 interests:
-- Blood-Brain Barrier
-- Functional Genomics
-- Microbiology
+- Functional Genomics of the Blood-Brain Barrier
+- Neuropathology and Ophthalmic Pathology 
+- Parasites of Genomes, Cells, and Humans 
 
 # Education to show in About widget
 education:
