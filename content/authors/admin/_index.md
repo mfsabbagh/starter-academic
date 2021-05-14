@@ -16,7 +16,7 @@ organizations:
   url: https://hms.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include vascular biology, genomics, microbiology, and paristology.
+bio: I am an aspiring pathologist-scientist.
 
 # Interests to show in About widget
 interests:
