@@ -1,6 +1,6 @@
 ---
 title: Beta-catenin signaling regulates barrier-specific gene expression in
-  circumventricular organ and ocular vasculatures.
+  circumventricular organ and ocular vasculatures
 publication_types:
   - "2"
 authors:
