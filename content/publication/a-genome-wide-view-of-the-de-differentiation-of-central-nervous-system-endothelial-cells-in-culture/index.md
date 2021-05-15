@@ -1,6 +1,6 @@
 ---
 title: A genome-wide view of the de-differentiation of central nervous system
-  endothelial cells in culture.
+  endothelial cells in culture
 publication_types:
   - "2"
 authors:
