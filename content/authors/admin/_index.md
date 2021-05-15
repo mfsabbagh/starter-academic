@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mark Sabbagh, MD, PhD
+title: Mark F Sabbagh, MD, PhD
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ bio: I am an aspiring pathologist-scientist.
 
 # Interests to show in About widget
 interests:
-- Functional Genomics of the Blood-Brain Barrier
+- Blood-Brain Barrier Functional Genomics
 - Neuropathology and Ophthalmic Pathology 
 - Parasites of Genomes, Cells, and Humans 
 
