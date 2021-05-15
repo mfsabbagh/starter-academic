@@ -1,6 +1,6 @@
 ---
 title: "The Student Curriculum Review Team: How We Catalyze Curricular Changes
-  through a Student-Centered Approach."
+  through a Student-Centered Approach"
 publication_types:
   - "2"
 authors:
