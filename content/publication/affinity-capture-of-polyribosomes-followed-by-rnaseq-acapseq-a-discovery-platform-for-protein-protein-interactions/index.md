@@ -1,6 +1,6 @@
 ---
 title: Affinity capture of polyribosomes followed by RNAseq (ACAPseq), a
-  discovery platform for protein-protein interactions.
+  discovery platform for protein-protein interactions
 publication_types:
   - "2"
 authors:
