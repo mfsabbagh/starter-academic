@@ -1,6 +1,6 @@
 ---
 title: "Lighting a path: genetic studies pinpoint neurodevelopmental mechanisms
-  in autism and related disorders."
+  in autism and related disorders"
 publication_types:
   - "2"
 authors:
