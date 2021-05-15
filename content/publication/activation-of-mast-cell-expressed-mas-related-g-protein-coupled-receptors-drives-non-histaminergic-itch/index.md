@@ -1,6 +1,6 @@
 ---
 title: Activation of mast cell expressed Mas-related G- protein coupled
-  receptors drives non-histaminergic itch.
+  receptors drives non-histaminergic itch
 publication_types:
   - "2"
 authors:
