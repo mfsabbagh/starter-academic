@@ -1,5 +1,5 @@
 ---
-title: Genetic and phenotypic diversity of NHE6 mutations in Christianson syndrome.
+title: Genetic and phenotypic diversity of NHE6 mutations in Christianson syndrome
 publication_types:
   - "2"
 authors:
