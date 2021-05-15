@@ -1,6 +1,6 @@
 ---
 title: Transcriptional and epigenomic landscapes of CNS and non-CNS vascular
-  endothelial cells.
+  endothelial cells
 publication_types:
   - "2"
 authors:
