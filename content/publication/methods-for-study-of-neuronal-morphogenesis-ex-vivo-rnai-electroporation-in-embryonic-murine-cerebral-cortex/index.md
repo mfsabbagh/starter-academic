@@ -9,6 +9,7 @@ authors:
   - Mark Sabbagh
   - Eric M Morrow
 doi: 10.3791/3621
+publication: Journal of Visualized Experiments
 draft: false
 featured: false
 image:
