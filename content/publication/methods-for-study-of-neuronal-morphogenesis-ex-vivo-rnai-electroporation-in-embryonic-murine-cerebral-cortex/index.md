@@ -1,6 +1,6 @@
 ---
 title: "Methods for study of neuronal morphogenesis: ex-vivo RNAi
-  electroporation in embryonic murine cerebral cortex."
+  electroporation in embryonic murine cerebral cortex"
 publication_types:
   - "2"
 authors:
