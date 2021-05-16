@@ -66,7 +66,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-I am a pathology resident at MGH.
+I am a pathology resident at MGH. 
