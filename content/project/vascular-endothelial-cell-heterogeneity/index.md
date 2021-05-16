@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - Endothelial
-external_link: https://markfsabbagh.shinyapps.io/vectrdb/
+# external_link: https://markfsabbagh.shinyapps.io/vectrdb/
 links:
   - url: https://markfsabbagh.shinyapps.io/vectrdb/
     icon_pack: null
