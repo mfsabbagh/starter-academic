@@ -6,7 +6,7 @@ title: Mark F Sabbagh, MD, PhD
 superuser: true
 
 # Role/position/tagline
-role: Pathology Resident 
+role: Resident in Anatomic Pathology
 
 # Organizations/Affiliations to show in About widget
 organizations:
