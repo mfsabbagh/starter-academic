@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mark Sabbagh # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://markfsabbagh.com/' # Website URL
+copyright: '© {year} Mark Sabbagh' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
