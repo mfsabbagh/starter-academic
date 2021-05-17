@@ -29,10 +29,10 @@ item:
 - certificate_url: ""
   date_end: "2019-05-31"
   date_start: "2016-06-01"
-  description: ""
-  organization: NRSA F30 Fellowship
+  description: "Cell Competition in the Developing Mammalian Central Nervous System Vasculature"
+  organization: NICHD
   organization_url: https://www.nichd.nih.gov/
-  title: Cell Competition in the Developing Mammalian Central Nervous System Vasculature
+  title: NRSA F30 Fellowship
   url: ""
 
 design:
