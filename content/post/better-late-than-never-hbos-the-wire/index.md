@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-After living nearly ten years in Baltimore, I managed to only watch the inaugural season of HBO's *The Wire*.
+At the time of this writing, Brood X cicada nymphs are beginning their journey to the surface after a 17-year slumber underground. After living nearly ten years in Baltimore, I managed to only watch the inaugural season of HBO's *The Wire*.
