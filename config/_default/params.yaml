@@ -38,10 +38,10 @@ phone: 7134834722
  # - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/mf_sabbagh'
+ # - icon: twitter
+ #   icon_pack: fab
+ #   name: DM Me
+  #  link: 'https://twitter.com/mf_sabbagh'
 #  - icon: skype
  #   icon_pack: fab
  #   name: Skype Me
@@ -98,7 +98,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
