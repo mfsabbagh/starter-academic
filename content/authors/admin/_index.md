@@ -16,6 +16,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mark-sabbagh-3a8461178/
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:markfsabbagh@gmail.com"
 organizations:
   - name: Massachusetts General Hospital
     url: https://www.massgeneral.org/pathology
